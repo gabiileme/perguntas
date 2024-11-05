@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Ditados populares',
+    'Está uma lua lá fora',
+    'Está muito calor'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Ditados populares',
+    'Os que os olhos não vêem, o coração não sente',
+    'O que você não sabe o que acontece, não te afeta'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Ditados populares',
+    'Água mole pedra dura, tanto bate até que fura',
+    'Com persistência, há resultados'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Ditados populares',
+    'Em casa de ferreiro, o espeto é de pau',
+    'Quano uma pessoa é boa em fazer algo, mas não usa disso ao seu favor'
 )
