@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Ditados populares',
-    'Os que os olhos não vêem, o coração não sente',
+    'Os que os olhos não veem, o coração não sente',
     'O que você não sabe o que acontece, não te afeta'
 )
 
