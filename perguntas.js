@@ -1,7 +1,7 @@
 criaCartao(
     'Ditados populares',
-    'Está uma lua lá fora',
-    'Está muito calor'
+    'De grão em grão, a galinha enche o papo',
+    'De pouco em pouco, é possível alcançar um objetivo'
 )
 
 criaCartao(
@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Ditados populares',
     'Em casa de ferreiro, o espeto é de pau',
-    'Quano uma pessoa é boa em fazer algo, mas não usa disso ao seu favor'
+    'Quando uma pessoa é boa em fazer algo, mas não usa disso ao seu favor'
 )
